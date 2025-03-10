@@ -14,11 +14,11 @@
 
 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pooja123&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poojaschavan97&theme=radical&hide_border=true" alt="Streak Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pooja123&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Poojaschavan97&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja123&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojaschavan97&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
