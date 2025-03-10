@@ -27,7 +27,7 @@
 
 | Project | Description | Repo |
 |---------|------------|------|
-| 🏏 IPL Data Analysis | An interactive dashboard for IPL insights using Python & Streamlit | [Repo](https://github.com/Pooja123/ipl-analysis) |
+| 🏏 IPL Data Analysis | An interactive dashboard for IPL insights using Python & Streamlit | [Repo](https://github.com/Poojaschavan97/ML_project_ipl.git) |
 | 🧠 Deep Learning Model | CNN-based image classification model deployed on AWS | [Repo](https://github.com/Pooja123/cnn-project) |
 | 📊 Power BI Dashboard | A visually appealing ML model analysis using Power BI | [Repo](https://github.com/Pooja123/powerbi-ml) |
 | 🤖 Chatbot Development | A basic AI chatbot with NLP integration | [Repo](https://github.com/Pooja123/chatbot) |
