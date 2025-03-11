@@ -35,7 +35,7 @@
 ---
 
 📫 **Get in Touch**
-- 💼 [LinkedIn](https://www.linkedin.com/in/pooja123/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pooja-chavan-b9590431a/)
 - ✉️ Email: poojachavan.0109@gmail.com (for cool projects, not spam 😜)
 
 ---
