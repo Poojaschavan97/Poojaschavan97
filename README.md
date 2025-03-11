@@ -29,7 +29,7 @@
 |---------|------------|------|
 | 🏏 IPL Data Analysis | An interactive dashboard for IPL insights using Python & Streamlit | [Repo](https://github.com/Poojaschavan97/ML_project_ipl.git) |
 | 🧠 Loan Riskiness Prediction Model | An interactive model to predict risk using ML algorithm | [Repo](https://github.com/Poojaschavan97/Loan-Riskiness-Prediction-OG.git) |
-| 📊 NLP_GUI | A GUI based Project | [Repo](https://github.com/Pooja123/powerbi-ml) |
+| 📊 NLP_GUI | A GUI based Project | [Repo](https://github.com/Poojaschavan97/NLP__GUI.git) |
 | 🤖 FLASKWEB | A project using nlp api's and flask | [Repo](https://github.com/Pooja123/chatbot) |
 
 ---
