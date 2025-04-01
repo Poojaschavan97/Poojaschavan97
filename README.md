@@ -30,8 +30,8 @@
 | 🏏 IPL Data Analysis | An interactive dashboard for IPL insights using Python & Streamlit | [Repo](https://github.com/Poojaschavan97/ML_project_ipl.git) |
 | 💸 Loan Riskiness Prediction Model | An interactive model to predict risk using ML algorithm | [Repo](https://github.com/Poojaschavan97/Loan-Riskiness-Prediction-OG.git) |
 |🗄️  Metal Detection CNN MODEL | A CNN Model Which can detect defects in metal |[Repo](https://github.com/Poojaschavan97/Metal-Detection-.git)
-| 🗏 NLP_GUI | A GUI based Project | [Repo](https://github.com/Poojaschavan97/NLP__GUI.git) |
-| 🗏 FLASKWEB | A project using nlp api's and flask | [Repo](https://github.com/Poojaschavan97/FLASKWEB.git) |
+| 🗏  NLP_GUI | A GUI based Project | [Repo](https://github.com/Poojaschavan97/NLP__GUI.git) |
+| 🗏  FLASKWEB | A project using nlp api's and flask | [Repo](https://github.com/Poojaschavan97/FLASKWEB.git) |
 
 ---
 
