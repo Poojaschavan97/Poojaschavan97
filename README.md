@@ -38,6 +38,7 @@
 📫 **Get in Touch**
 - 💼 [LinkedIn](https://www.linkedin.com/in/pooja-chavan-s27/)
 - ✉️ Email: poojachavan.0109@gmail.com (for cool projects, not spam 😜)
+- [Portfolio](https://poojaschavan97.github.io/portfolio/)
 
 ---
 
