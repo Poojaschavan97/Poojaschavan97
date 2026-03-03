@@ -73,9 +73,9 @@ Currently building real-world, end-to-end analytics and business systems.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poojaschavan97&theme=radical&hide_border=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Poojaschavan97&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Poojaschavan97&show_icons=true&theme=radical&cache_seconds=1800" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojaschavan97&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojaschavan97&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
