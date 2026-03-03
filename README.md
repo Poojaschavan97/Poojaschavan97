@@ -94,7 +94,6 @@ Long-term: AI Engineering 🌍
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pooja-chavan-s27/)
-- 🌐 [Portfolio](https://poojaschavan97.github.io/portfolio/)
 - ✉️ poojachavan.0109@gmail.com  
 
 ---
